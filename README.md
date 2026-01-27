@@ -13,7 +13,8 @@
 
 ---
 
-## 🔍 What You’ll Find Here
+## What You’ll Find Here
+## Projecs:
 
 - 📂 **Data Analysis Projects** – SQL & Python based analysis  
 - 📊 **EDA Projects** – Real datasets with insights and visualizations  
@@ -25,7 +26,7 @@
 ## 🛠️ Skills & Tools
 
 - **Languages:** Python, SQL, C, C++  
-- **Libraries:** Pandas, NumPy, Matplotlib  
+- **Libraries:** Pandas, NumPy, Matplotlib, Seaborn, Scikit Learn
 - **Tools:** Power BI, Excel  
 - **Databases:** MySQL, PostgreSQL  
 - **Concepts:** EDA, Data Cleaning, Statistics, Basics of Machine Learning  
