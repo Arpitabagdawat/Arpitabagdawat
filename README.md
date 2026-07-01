@@ -43,7 +43,8 @@
 
 ## 🤝 Get in Touch
 
-- 💼 LinkedIn: *https://www.linkedin.com/in/arpita-b-66a996292/*  
-- 📧 Email: *arpitabagdawat@gmail.com*  
+-💼 LinkedIn: https://www.linkedin.com/in/arpita-b-66a996292/
+-🌐 Portfolio: https://datascienceportfol.io/arpitabagdawat
+-📧 Email: arpitabagdawat@gmail.com
 
 ⭐ Feel free to explore my repositories and connect with me!
