@@ -1,51 +1,157 @@
-# 👋 Welcome to My GitHub!
+<h1 align="center">Hi 👋, I'm Arpita Bagdawat</h1>
+<h3 align="center">Aspiring Data Analyst | AI & Data Science Graduate | Data Enthusiast</h3>
 
-✨ Hi there! I'm Arpita, an aspiring Data Analyst and Data Science enthusiast who loves working with data and uncovering insights from it.
+<p align="center">
+Passionate about transforming raw data into meaningful insights using Python, SQL, Excel, and Power BI.
+I enjoy solving real-world business problems through data analysis, visualization, and machine learning projects.
+</p>
 
 ---
 
 ## 👩‍💻 About Me
 
-- 📊 Skilled in Python, SQL, Excel, and Power BI  
-- 📈 Interested in Data Analysis, Data Science, and Visualization  
-- 🧠 Enjoy exploring datasets, cleaning data, and finding meaningful patterns  
-- 🌱 Currently improving my analytical and problem-solving skills through projects  
+- 🎓 B.Tech Graduate in Artificial Intelligence & Data Science
+- 📊 Aspiring Data Analyst with hands-on project experience
+- 💡 Passionate about Data Analysis, Data Science, Business Intelligence & Machine Learning
+- 📈 Experienced in analyzing datasets, creating dashboards, and generating business insights
+- 🌱 Currently learning advanced SQL, Power BI, and Cloud Technologies
+- 🚀 Always exploring new tools and technologies
 
 ---
 
-## What You’ll Find Here
-## Projecs:
+## 🛠️ Tech Stack
 
-- 📂 **Data Analysis Projects** – SQL & Python based analysis  
-- 📊 **EDA Projects** – Real datasets with insights and visualizations  
-- 📈 **Power BI Dashboards** – Interactive and clean dashboards  
-- 🧪 **Practice Work** – Queries, analysis, and learning experiments  
+### 💻 Programming Languages
+
+- Python
+- SQL
+- C
+- C++
+
+### 📚 Libraries & Frameworks
+
+- Pandas
+- NumPy
+- Matplotlib
+- Seaborn
+- Scikit-learn
+- Streamlit
+
+### 📊 Data Visualization
+
+- Power BI
+- Microsoft Excel
+
+### 🗄️ Databases
+
+- MySQL
+- PostgreSQL
+
+### ☁️ Cloud
+
+- Microsoft Azure
+
+### 🧰 Tools
+
+- Git
+- GitHub
+- VS Code
+- Jupyter Notebook
+- PyCharm
+- pgAdmin
 
 ---
 
-## 🛠️ Skills & Tools
+## 📂 Featured Projects
 
-- **Languages:** Python, SQL, C, C++  
-- **Libraries:** Pandas, NumPy, Matplotlib, Seaborn, Scikit Learn
-- **Tools:** Power BI, Excel  
-- **Databases:** MySQL, PostgreSQL  
-- **Concepts:** EDA, Data Cleaning, Statistics, Basics of Machine Learning  
+### 📊 Data Analysis Projects
+
+- Kickstarter Success Analysis
+- Airbnb NYC Data Analysis
+- Campus Placement Analytics
+- IPL Data Analysis
+- Medical Appointment Attendance Analysis
+
+### 📈 Power BI Dashboards
+
+- HR Analytics Dashboard
+- Mobile Sales Dashboard
+- Super Sales Dashboard
+
+### 🤖 Machine Learning Projects
+
+- Customer Churn Prediction
+- Fake News Detection
+- Movie Recommendation System
+- Bitcoin Sentiment Analysis
+- Sentiment Analysis
+
+### 💻 AI & Computer Vision
+
+- AI Virtual Keyboard
+- Smart Mirror
+- Jarvis Virtual Assistant
+- Bollywood Celebrity Predictor
+- LangGraph AI Chatbot
 
 ---
 
 ## 📜 Certifications
 
-- ✅ Microsoft : https://bit.ly/47xzreI
-- ✅ Accenture : https://www.futurelearn.com/your-achievementshashtag#certificate_of_achievement_2622764  
-- ✅ Infosys : https://bit.ly/43pIU5k
+- 🏅 Microsoft
+- 🏅 Accenture
+- 🏅 Infosys
+
 ---
 
-## 🤝 Get in Touch
+## 📈 Currently Learning
 
--💼 LinkedIn: https://www.linkedin.com/in/arpitabagdawat-dataanalyst/
+- Advanced SQL
+- Power BI
+- Azure
+- Machine Learning
+- Data Engineering Fundamentals
 
--🌐 Portfolio: https://datascienceportfol.io/arpitabagdawat
+---
 
--📧 Email: arpitabagdawat@gmail.com
+## 🌐 Connect With Me
 
-⭐ Feel free to explore my repositories and connect with me!
+💼 **LinkedIn**
+
+https://www.linkedin.com/in/arpitabagdawat-dataanalyst/
+
+🌐 **Portfolio**
+
+https://datascienceportfol.io/arpitabagdawat
+
+💻 **GitHub**
+
+https://github.com/Arpitabagdawat
+
+📧 **Email**
+
+arpitabagdawat@gmail.com
+
+---
+
+## 📊 GitHub Stats
+
+> Add these GitHub stat cards after creating your profile README.
+
+```md
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Arpitabagdawat&show_icons=true&theme=tokyonight)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Arpitabagdawat&layout=compact&theme=tokyonight)
+
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Arpitabagdawat&theme=tokyonight)
+```
+
+---
+
+## ✨ Quote
+
+> **"Turning data into insights and ideas into impactful solutions."**
+
+---
+
+⭐ Thank you for visiting my profile! Feel free to explore my repositories and connect with me.
