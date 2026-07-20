@@ -35,15 +35,14 @@
 
 ## 📜 Certifications
 
-- ✅ Python for Data Science (Udemy)  
-- ✅ Power BI Certification  
-- ✅ Data Analytics & Visualization Courses  
-
+- ✅ Microsoft : https://bit.ly/47xzreI
+- ✅ Accenture : https://www.futurelearn.com/your-achievementshashtag#certificate_of_achievement_2622764  
+- ✅ Infosys : https://bit.ly/43pIU5k
 ---
 
 ## 🤝 Get in Touch
 
--💼 LinkedIn: https://www.linkedin.com/in/arpita-b-66a996292/
+-💼 LinkedIn: https://www.linkedin.com/in/arpitabagdawat-dataanalyst/
 
 -🌐 Portfolio: https://datascienceportfol.io/arpitabagdawat
 
