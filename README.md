@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋,Wlcome To My Github, I'm Arpita Bagdawat</h1>
+<h1 align="center">👋 Welcome to My GitHub! </h1>
 <h3 align="center">Aspiring Data Analyst | AI & Data Science Graduate | Data Enthusiast</h3>
 
 <p align="center">
@@ -101,16 +101,6 @@ I enjoy solving real-world business problems through data analysis, visualizatio
 - 🏅 Microsoft
 - 🏅 Accenture
 - 🏅 Infosys
-
----
-
-## 📈 Currently Learning
-
-- Advanced SQL
-- Power BI
-- Azure
-- Machine Learning
-- Data Engineering Fundamentals
 
 ---
 
